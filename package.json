@@ -1,0 +1,24 @@
+{
+  "name": "backspace",
+  "version": "1.0.0",
+  "description": "A helper library to strip text of all newline characters so it is on a single line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackwkinsey/backspace.js.git"
+  },
+  "keywords": [
+    "helper",
+    "backspace",
+    "funny"
+  ],
+  "author": "Jack Kinsey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackwkinsey/backspace.js/issues"
+  },
+  "homepage": "https://github.com/jackwkinsey/backspace.js#readme"
+}
